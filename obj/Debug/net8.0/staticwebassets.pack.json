@@ -5,12 +5,20 @@
       "PackagePath": "staticwebassets\\SiteEmprestimos.bundle.scp.css"
     },
     {
+      "Id": "C:\\Projetos\\Dev\\SiteEmprestimos\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
       "Id": "C:\\Projetos\\Dev\\SiteEmprestimos\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "C:\\Projetos\\Dev\\SiteEmprestimos\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Projetos\\Dev\\SiteEmprestimos\\wwwroot\\img\\livro.png",
+      "PackagePath": "staticwebassets\\img\\livro.png"
     },
     {
       "Id": "C:\\Projetos\\Dev\\SiteEmprestimos\\wwwroot\\js\\site.js",

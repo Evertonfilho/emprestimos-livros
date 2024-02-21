@@ -152,3 +152,4 @@ C:\Projetos\Dev\SiteEmprestimos\obj\Debug\net8.0\refint\SiteEmprestimos.dll
 C:\Projetos\Dev\SiteEmprestimos\obj\Debug\net8.0\SiteEmprestimos.pdb
 C:\Projetos\Dev\SiteEmprestimos\obj\Debug\net8.0\SiteEmprestimos.genruntimeconfig.cache
 C:\Projetos\Dev\SiteEmprestimos\obj\Debug\net8.0\ref\SiteEmprestimos.dll
+C:\Projetos\Dev\SiteEmprestimos\obj\Debug\net8.0\SiteEmprestimos.sourcelink.json
